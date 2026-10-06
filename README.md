@@ -213,4 +213,4 @@ TOCA Race Driver is offered as a complete free version, including all features a
 Ready to hit the tracks? Download TOCA Race Driver now and embrace the thrill of racing!
 
 ---
-**Last updated:** 2026-10-06 14:58:37 UTC
+**Last updated:** 2026-10-06 20:10:25 UTC
